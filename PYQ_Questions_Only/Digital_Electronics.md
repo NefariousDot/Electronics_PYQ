@@ -8,7 +8,7 @@
 
 ``` 
 
-02. What is the hexadecimal equivalent of this binary number (1110)~2~
+02. What is the hexadecimal equivalent of this binary number (1110)2
 
 (a) F  (b) B  (c) A  (d) E 
 
