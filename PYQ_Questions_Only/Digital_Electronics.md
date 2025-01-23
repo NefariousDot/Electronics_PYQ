@@ -151,7 +151,9 @@ each number and their sum
 
 ```
 
-19. P, Q and R are the decimal integer corresponding to the 4-bit binary number 1100 considered in signed magnitude, 1's complement representation and 2's complement representation respectively. The 6-bit 2's complement representation of (P+Q+R) is
+19. P, Q and R are the decimal integer corresponding to the 4-bit binary number 1100 considered in signed magnitude, 
+1's complement representation and 2's complement representation respectively. The 6-bit 2's complement representation 
+of (P+Q+R) is
 
 (a) 11101  (b) 110101  (c) 110010  (d) 111001
 
@@ -159,7 +161,8 @@ each number and their sum
 
 ```
 
-20. 2's complement representation of a 16 bit number ( 1 sign bit & 15 magnitude bit) is FFFF. Its magnitude in decimal representation
+20. 2's complement representation of a 16 bit number ( 1 sign bit & 15 magnitude bit) is FFFF. Its magnitude in decimal 
+representation
 
 (a) 0  (b) 1  (c) 32767  (d) 65535
 
@@ -167,11 +170,13 @@ each number and their sum
 
 ```
 
-21. A signed integer has stored in a byte using the 2's complement format. we wish to store the same integer in 16 bit word. We should
+21. A signed integer has stored in a byte using the 2's complement format. we wish to store the same integer in 16 bit word. 
+We should
 
 (a) Copy the original byte to the less significant byte of the word and fill the most significant byte with 0  
 (b) Copy the original byte to the most significant byte of the word and fill the less significant byte with 0  
-(c) Copy the original byte to the less significant byte of the word and make each bit of the more significant byte equal to the most significant bit of the original byte  
+(c) Copy the original byte to the less significant byte of the word and make each bit of the more significant 
+byte equal to the most significant bit of the original byte  
 (d) Copy the original byte to the less significant byte as well as the most significant byte of the word
 
 ```
@@ -186,7 +191,8 @@ each number and their sum
 
 ```
 
-23. Whwn signed numbers are used in binary arithematic, then which one of the following notation would have unique representation for 0
+23. Whwn signed numbers are used in binary arithematic, then which one of the following notation would have unique 
+representation for 0
 
 (a) Sign Magnitude  (b) 1's Complement  (c) 2's Complement  (d) 9's Complement
 
@@ -210,7 +216,8 @@ each number and their sum
 
 ```
 
-26. The number is in 8-bit representation of -127 in 2's complement form is 'm' and that in 1's complement form is 'n'. What is the value of m:n ?
+26. The number is in 8-bit representation of -127 in 2's complement form is 'm' and that in 1's complement form is 'n'. 
+What is the value of m:n ?
 
 (a) 2:1  (b) 1:2  (c) 3:1  (d) 1:3
 
@@ -255,7 +262,8 @@ each number and their sum
 ```
 ```
 
-32. Which of the following BCD code is a sequencial code anf therefore can be used for arithematic operations as well as has 6 invaid states 0000, 0001, 0010, 1101, 1110, 1111
+32. Which of the following BCD code is a sequencial code anf therefore can be used for arithematic operations as well as has 
+6 invaid states 0000, 0001, 0010, 1101, 1110, 1111
 
 (a) Excess three code  (b) Error detection code  (c) The 8421 BCD code  (d) The Gray code
 
@@ -269,7 +277,8 @@ each number and their sum
 ```
 ```
 
-34. What is the 1's complement of a signed decimal number ? The range of signed decimal number that can be represented by 5-bits
+34. What is the 1's complement of a signed decimal number ? The range of signed decimal number that can be represented 
+by 5-bits
 
 (a) -31 to +31  (b) -15 to +15  (c) -16 to +15  (d) -32 to +32
 
