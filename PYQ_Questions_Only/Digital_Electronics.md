@@ -134,7 +134,8 @@
 
 ```
 
-17. In the 2's complement system, add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and their sum
+17. In the 2's complement system, add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of 
+each number and their sum
 
 (a) -14 and -13 ; -27   (b) -13 and -12 ; -25  (c) -27 and -13 ; -40   (d) -2 and -3 ; -5
 
