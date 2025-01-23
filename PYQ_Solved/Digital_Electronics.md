@@ -57,16 +57,17 @@ Answer : (a) 9
 
 ```
 ### SOLUTION
-> Whenever such question arises, try to convert it to decimal form
-> while checking the multiplication values its clear that 
->> 8^1 = 8
->> 8^2 = 64
->> 8^3 = 512
-> Lets rewrite the given equation
-> 3 x 512 + 5 x 64 + 7 x 8 + 3 = 3 x (8^3) + 5 x (8^2) + 7 x (8^1) + 3 x (8^0)
-> From this we can understand that this is a OCtal number which is trying to convert to decimal
-> Lets write down the octal number : (3573)8 = (011 101 111 011)2
-> So total 9 1's are there in the binary
+> - Whenever such question arises, try to convert it to decimal form
+> - while checking the multiplication values its clear that 
+>> - 8^1 = 8
+>> - 8^2 = 64
+>> - 8^3 = 512
+> - Lets rewrite the given equation
+> - 3 x 512 + 5 x 64 + 7 x 8 + 3 = 3 x (8^3) + 5 x (8^2) + 7 x (8^1) + 3 x (8^0)
+> - From this we can understand that this is a OCtal number which is trying to convert to decimal
+> - Lets write down the octal number : (3573)8 = (011 101 111 011)2
+> - So total 9 1's are there in the binary
+> 
 
 
 ``` 
@@ -86,6 +87,7 @@ Answer : (a) 8
 > - From this we can understand that this is a Hexa Decimal number which is trying to convert to decimal
 > - Lets write down the Hexa number : (4975)16 = (0100 1001 0111 0101)2
 > - So total 8 1's are there in the binary
+> 
 
 ``` 
 
