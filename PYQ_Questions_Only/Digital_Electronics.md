@@ -69,7 +69,8 @@
 ```
 
 
-``` 
+```
+ 
 **What is the base of the number system for the following operation to be correct $$(54)_b$$ / $$(4)_b$$ = $$(13)_b$$** 
 
 (a) 2  (b) 4  (c) 8  (d) 16 
