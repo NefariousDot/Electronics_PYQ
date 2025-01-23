@@ -78,10 +78,10 @@ Answer : (a) 8
 ```
 ### SOLUTION :
 > while checking the multiplication values its clear that 
->> 16^1 = 16
+16^1 = 16
 16^2 = 256
 16^3 = 4096
-> Lets rewrite the given equation
+Lets rewrite the given equation
 4 x 4096 + 9 x 256 + 7 x 16 + 5 = 4 x (16^3) + 9 x (16^2) + 7 x (16^1) + 5 x (16^0)
 From this we can understand that this is a Hexa Decimal number which is trying to convert to decimal
 Lets write down the Hexa number : (4975)16 = (0100 1001 0111 0101)2
