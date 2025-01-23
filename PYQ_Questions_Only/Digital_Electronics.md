@@ -6,7 +6,7 @@
 
 ```
 
-``` 
+```markdown 
 
 02. What is the hexadecimal equivalent of this binary number (1110)2
 
@@ -14,7 +14,7 @@
 
 ```
 
-``` 
+```markdown 
 
 03. The radix/base of octal number system is
 
@@ -23,7 +23,7 @@
 ```
 
 
-``` 
+```markdown 
 
 04. Convert the hexadecimal number C6 to binary number
 
@@ -32,7 +32,7 @@
 ```
 
 
-``` 
+```markdown 
 
 05. Which of the following pairs of octal number and binary numbers are NOT equal 
 
@@ -40,7 +40,7 @@
 
 ```
 
-``` 
+```markdown 
 
 06. which of the following is NOT binary number 
 
@@ -49,7 +49,7 @@
 ```
 
 
-``` 
+```markdown 
 
 07. The number of digit 1 present in the binary representation of 3 x 512 + 5 x 64 + 7 x 8 + 3 is 
 
@@ -58,7 +58,7 @@
 ```
 
 
-``` 
+```markdown 
 
 08. The number of 1s present in the binary representation of 4 x 4096 + 9 x 256 + 7 x 16 + 5 is 
 
@@ -66,7 +66,7 @@
 
 ```
 
-``` 
+```markdown 
 
 09. A particular number system having base B is given (√41)B = (5)10 
 
@@ -74,7 +74,7 @@
 
 ```
 
-``` 
+```markdown 
 
 10. The minimum decimal equivalent of the number 11C.0 is 
 
@@ -82,7 +82,7 @@
 
 ```
 
-``` 
+```markdown 
 
 11. Given (135)x + (144)x = (323)x. What is the value of X 
 
@@ -91,7 +91,7 @@
 ```
 
 
-``` 
+```markdown 
 
 12. What is the base of the number system for the following operation to be correct (54)b / (4)b = (13)b 
 
@@ -100,7 +100,7 @@
 ```
 
 
-``` 
+```markdown 
 
 13. If (11X1Y)8 = (12C9)16, what is the value of X and Y 
 
@@ -108,7 +108,7 @@
 
 ```
 
-``` 
+```markdown 
 
 14. Consider the following number in sequence 0,1,2,3,10,11,12,13,20,...  Identify the number system for the above sequence 
 
@@ -116,7 +116,7 @@
 
 ```
 
-``` 
+```markdown 
 
 15. Which of the following binary number could be referred to as Nibble 
 
@@ -124,7 +124,7 @@
 
 ```
 
-```
+```markdown
 
 16. Find the excess-3 code of 790
 
@@ -132,7 +132,7 @@
 
 ```
 
-```
+```markdown
 
 17. In the 2's complement system, add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of 
 each number and their sum
@@ -141,7 +141,7 @@ each number and their sum
 
 ```
 
-```
+```markdown
 
 18. 9's complement of 234 is 
 
@@ -149,7 +149,7 @@ each number and their sum
 
 ```
 
-```
+```markdown
 
 19. P, Q and R are the decimal integer corresponding to the 4-bit binary number 1100 considered in signed magnitude, 
 1's complement representation and 2's complement representation respectively. The 6-bit 2's complement representation 
@@ -159,7 +159,7 @@ of (P+Q+R) is
 
 ```
 
-```
+```markdown
 
 20. 2's complement representation of a 16 bit number ( 1 sign bit & 15 magnitude bit) is FFFF. Its magnitude in decimal 
 representation
@@ -168,7 +168,7 @@ representation
 
 ```
 
-```
+```markdown
 
 21. A signed integer has stored in a byte using the 2's complement format. we wish to store the same integer in 16 bit word. 
 We should
@@ -181,7 +181,7 @@ byte equal to the most significant bit of the original byte
 
 ```
 
-```
+```markdown
 
 22. Which of the following is error correction code ?
 
@@ -189,7 +189,7 @@ byte equal to the most significant bit of the original byte
 
 ```
 
-```
+```markdown
 
 23. Whwn signed numbers are used in binary arithematic, then which one of the following notation would have unique 
 representation for 0
@@ -198,7 +198,7 @@ representation for 0
 
 ```
 
-```
+```markdown
 
 24. F's complement of (2BFD)H is
 
@@ -206,7 +206,7 @@ representation for 0
 
 ```
 
-```
+```markdown
 
 25. Which of the following is self complementing code 
 
@@ -214,7 +214,7 @@ representation for 0
 
 ```
 
-```
+```markdown
 
 26. The number is in 8-bit representation of -127 in 2's complement form is 'm' and that in 1's complement form is 'n'. 
 What is the value of m:n ?
@@ -223,7 +223,7 @@ What is the value of m:n ?
 
 ```
 
-```
+```markdown
 
 27. What is the Gray code word for the binary number 101011
 
@@ -231,7 +231,7 @@ What is the value of m:n ?
 
 ```
 
-```
+```markdown
 
 28. What is the addition of (-64)10 and (80)16?
 
@@ -239,28 +239,28 @@ What is the value of m:n ?
 
 ```
 
-```
+```markdown
 
 29. Which one of the following is correct when (11011)2 is subtracted from (11101)2 by using the 1's complement methos
 
 (a) 01001  (b) 10001  (c) 00011  (d) 00010
 
 ```
-```
+```markdown
 
 30. Add 8 and 9 in BCD code
 
 (a) 00010111  (b) 10001001  (c) 00010001  (d) 01110111
 
 ```
-```
+```markdown
 
 31. ASCII is 
 
 (a) a 4 bit I/O code  (b) a 2 bit I/O code  (c) a 7 bit I/O code  (d) a 8 bit I/O code 
 
 ```
-```
+```markdown
 
 32. Which of the following BCD code is a sequencial code anf therefore can be used for arithematic operations as well as has 
 6 invaid states 0000, 0001, 0010, 1101, 1110, 1111
@@ -268,14 +268,14 @@ What is the value of m:n ?
 (a) Excess three code  (b) Error detection code  (c) The 8421 BCD code  (d) The Gray code
 
 ```
-```
+```markdown
 
 33. The hamming distance between two code words c1 = 1011 0101[] and c2 = 0111 1010[] is
 
 (a) 4  (b) 5  (c) 3  (d) 6
 
 ```
-```
+```markdown
 
 34. What is the 1's complement of a signed decimal number ? The range of signed decimal number that can be represented 
 by 5-bits
@@ -283,7 +283,7 @@ by 5-bits
 (a) -31 to +31  (b) -15 to +15  (c) -16 to +15  (d) -32 to +32
 
 ```
-```
+```markdown
 
 35. A single decimal to BCD encoder has ________ output 
 
