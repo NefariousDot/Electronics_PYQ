@@ -95,6 +95,13 @@ Answer : (a) 8
 
 Answer : (b) 6
 ```
+### SOLUTION :
+> - Squaring LHS and RHS to avoid the sqare root 
+> - ie; (41)B = (25)10
+> - Convert (41)B to decimal ==> 4 x (B^1) + 1 x (B^0) = 4B + 1
+> - 4B + 1 = 25
+> - 4B = 24
+> - B = ^
 
 ``` 
 
@@ -103,6 +110,16 @@ Answer : (b) 6
 Answer : (b) 194 
 
 ```
+### SOLUTION :
+> - Here one thing to remember is that "Base is NOT Specified for the given NUmber"
+> - Lets assume (11C.0)x
+> - For a number system of Base/radix 'R', The distanct symbols will be 0 to (R-1)
+> - So; In the given number is C hence the R should be > C (12)
+> - Lets conver the number to decimal ; X^2 + X + 12
+> - The minimum value for X has to be 13 to maintain the (R-1) formula
+> - There fore; (13^2) + 13 + 12
+> - 169 + 13 + 12 = 194
+
 
 ``` 
 
@@ -111,6 +128,14 @@ Answer : (b) 194
 Answer : (d) 6 
 
 ```
+### SOLUTION :
+> - Lets convert the numbers to decimal
+> - {(x^2) + 3x + 5} + {(x^2) + 4x + 4} = { 3(x^2) + 2x + 3}
+> - 2(x^2) + 7x + 9 = 3(x^2) + 2x + 3
+> - (x^2) - 5x - 6 = 0 ---> sum -5 & product -6 
+> - (x - 6)(x + 1) = 0
+> - X = 6 or -1
+> 
 
 
 ``` 
@@ -120,6 +145,14 @@ Answer : (d) 6
 Answer : (c) 8
 
 ```
+### SOLUTION :
+> - Lets convert the numbers to decimal
+> - ( 5b + 4 ) / 4 = b + 3 
+> - 5b + 4 = (b + 3)* 4
+> - 5b + 4 = 4b + 12
+> - b = 8
+> 
+> 
 
 
 ``` 
@@ -129,6 +162,14 @@ Answer : (c) 8
 Answer : (c) 3 and 1
 
 ```
+### SOLUTION :
+> - (12C9)16 = (0001 0010 1100 1001)12
+> - Grouping the same into 3 bit to get the octal equivalent
+> - (000 001 001 011 001 001)2
+> - ( 0 1 1 3 1 1 )8
+> - X = 3 and Y = 1
+> 
+> 
 
 ``` 
 
