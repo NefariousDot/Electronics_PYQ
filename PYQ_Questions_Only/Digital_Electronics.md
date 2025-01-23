@@ -1,4 +1,4 @@
-```
+```markdown
 
 01. How many digits in binary notation are required for decimal number 17
 
