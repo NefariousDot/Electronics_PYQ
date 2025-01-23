@@ -5,7 +5,7 @@
 ```
 
 ``` 
-##What is the hexadecimal equivalent of this binary number (1110)~2~
+##What is the hexadecimal equivalent of this binary number (1110)<sub>2</sub>
 
 (a) F  (b) B  (c) A  (d) E 
 ```
@@ -27,7 +27,7 @@
 ``` 
 ##Which of the following pairs of octal number and binary numbers are NOT equal 
 
-(a) (11010)~2~ = (62)~8~  (b) (10101.11)~2~ = (25.6)~8~  (c) (111110111)~2~ = (767)~8~  (d) (110110101)~2~ = (665)~8~ 
+(a) (11010)<sub>2</sub> = (62)<sub>8</sub>  (b) (10101.11)<sub>2</sub> = (25.6)<sub>8</sub>  (c) (111110111)<sub>2</sub> = (767)<sub>8</sub>  (d) (110110101)<sub>2</sub> = (665)<sub>8</sub> 
 ```
 
 ``` 
@@ -51,7 +51,7 @@
 ```
 
 ``` 
-##A particular number system having base B is given (√41)~B~ = (5)~10~ 
+##A particular number system having base B is given (√41)<sub>B</sub> = (5)<sub>10</sub> 
 
 (a) 5  (b) 6  (c) 7  (d) 8 
 ```
@@ -63,21 +63,21 @@
 ```
 
 ``` 
-##Given (135)~x~ + (144)~x~ = (323)~x~. What is the value of X 
+##Given (135)<sub>x</sub> + (144)<sub>x</sub> = (323)<sub>x</sub>. What is the value of X 
 
 (a) 5  (b) 3  (c) 12  (d) 6 
 ```
 
 
 ``` 
-##What is the base of the number system for the following operation to be correct (54)~b / (4)~b~ = (13)~b~ 
+##What is the base of the number system for the following operation to be correct (54)<sub>b</sub> / (4)<sub>b</sub> = (13)<sub>b</sub> 
 
 (a) 2  (b) 4  (c) 8  (d) 16 
 ```
 
 
 ``` 
-##If (11X1Y)~8~ = (12C9)~16~, what is the value of X and Y 
+##If (11X1Y)<sub>8</sub> = (12C9)<sub>16</sub>, what is the value of X and Y 
 
 (a) 5 and 1  (b) 5 and 7  (c) 3 and 1  (d) 1 and 3 
 ```
